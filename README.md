@@ -1,5 +1,3 @@
-MyversionofSpaceInvaders3D
-
 - I have to make sure that the aliens are much speed as little fast as possible as they headed towards the spaceship while firing at the enemy until it was obliterated.
 - I did made the aliens at the end of the point where I was able to play it and it's game over and try again.
 - I was able to prevent the space from moving off the screen while playing it.
